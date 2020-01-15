@@ -1,6 +1,6 @@
 # Virtual File System
 
-Virtual File System - academic applications which implemented for BSUIR university.
+Virtual File System - academic application which implemented for BSUIR university.
 
 ### Requirements
 - Boost library
